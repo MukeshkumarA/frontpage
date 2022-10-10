@@ -1,0 +1,70 @@
+@media screen and (max-width:767px) {
+    .div1 a{
+        display: none;
+    }
+    
+}
+.imgdiv{
+    position: absolute;
+    top:-5vh;
+    left: 0px;
+    width: 100%;
+    height: 72%;
+    object-fit: cover;
+  
+    
+    
+    z-index: -1;
+  }
+
+/*div{
+    background-image: url(https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png);
+    background-size: 200px;
+    background-position: 80%;
+    background-repeat: no-repeat;
+}*/
+.div1 a{
+    font-size: medium;
+}
+
+.div2 ul li{
+    font-size:larger;
+    padding: 0px 10px;
+    
+}
+
+.div2 ul li a{
+    color: white!important;
+}
+
+.h1{
+    text-align: center;
+    color: white;
+    font-size: 2.3rem;
+  font-weight: 20;
+    font-family: Okra, Helvetica, sans-serif;
+}
+
+/* @media screen and (min-width:800px) { 
+    div .boxdiv{
+        text-align: center;
+        margin-left: 150px;
+    }
+    
+} */
+
+.input-group .form-control{
+    padding: 25px;
+    border-radius: 8px;
+}
+div .input-group{
+    margin: auto;
+}
+
+
+/*#myNavBar{
+    height: 100vh;
+}*/
+.placeicon{
+    font-family: Okra, Helvetica, sans-serif,fontawesome;
+}
